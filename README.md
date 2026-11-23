@@ -10,7 +10,6 @@ I'm a Fullstack Developer with a strong backend focus, passionate about building
 - 👨‍💻 Currently working with **Java, Spring Boot, React & Angular**.
 - 🤖 Daily user of **GitHub Copilot** for AI-assisted development, refactoring & documentation.
 - 📚 Currently deepening knowledge in **clean architecture, CI/CD and cloud-native patterns**.
-- 🎯 Future Goals: Contribute to open source projects — Build production-grade SaaS products.
 
 - 📫 Social links
 <p>
